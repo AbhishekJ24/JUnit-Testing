@@ -1,4 +1,4 @@
-<h2 align='center' color='green'>JUnit - A unit testing framework for Java</h2>
+<h2 align='center'>JUnit - A unit testing framework for Java</h2>
 
 ##### A repository dedicated to JUnit, a unit testing framework in Java.
 
