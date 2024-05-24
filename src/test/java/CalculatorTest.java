@@ -25,4 +25,16 @@ public class CalculatorTest {
         int res = calc.subtract(90,100);
         Assert.assertEquals(10,res);
     }
+
+    @Test
+    public void checkMult(){
+        int res = calc.multiply(10,20);
+        Assert.assertEquals(200,res);
+    }
+
+    @Test
+    public void checkDiv(){
+        double res = calc.divide(10,20);
+        Assert.assertEquals(0.5,res);
+    }
 }
